@@ -15,7 +15,7 @@
 </a>  
   
 <a style="cursor: pointer;" href="https://catalog-education.oracle.com/pls/certview/sharebadge?id=A7D47257AB5AF996451C52F142704FD498C4217D4026A684EB368042C1271335" target="_blank" title="OCI Certifield Architect Associate">
-  <img src="https://brm-workforce.oracle.com/pdf/certview/images/OCI2023CAA.png" alt="OCI" width="100">
+  <img src="https://objectstorage.us-phoenix-1.oraclecloud.com/p/c3pofC7CHkSqKCRIe7q91rfgM9hXgQQW-GN-CtR9tbzkW4HIN0H02OJ8xwoeHPO_/n/axdnydvy8b2d/b/BCKMLPHXDEV_IMAGES/o/img/PROD/Learning-Path_badge_default.png" alt="OCI" width="100">
 </a>  
 
    <a style="cursor: pointer;" href="https://catalog-education.oracle.com/pls/certview/sharebadge?id=10C7DC40EBBC997E507F08F93B9450ABEBC0951BA209DE610537244516B782E8" target="_blank" title="OCI Foundation Associate">
@@ -23,11 +23,7 @@
 </a>
 
    <a style="cursor: pointer;" href="https://catalog-education.oracle.com/pls/certview/sharebadge?id=D451FC089C61667C3C44D3FF812CBC19EB92B2EB03E946600A1E49ECB4C2B89B" target="_blank" title="OCI Data Management Associate">
-  <img src="https://brm-workforce.oracle.com/pdf/certview/images/OCDMF2023.png" alt="OCI" width="100">
-</a>
-
-   <a style="cursor: pointer;" href="https://www.oracle.com/br/corporate/features/oracle-certification.html" target="_blank" title="OCI Foundation Associate">
-  <img src="https://images.credly.com/images/27db49f3-8bae-4314-8a84-884935b569db/50_Oracle_Cloud_Infrastructure.png" alt="OCI" width="100">
+  <img src="https://objectstorage.us-phoenix-1.oraclecloud.com/p/c3pofC7CHkSqKCRIe7q91rfgM9hXgQQW-GN-CtR9tbzkW4HIN0H02OJ8xwoeHPO_/n/axdnydvy8b2d/b/BCKMLPHXDEV_IMAGES/o/img/PROD/Learning-Path_badge_default.png" alt="OCI" width="100">
 </a>
 
 </div>
