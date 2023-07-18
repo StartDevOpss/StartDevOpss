@@ -4,7 +4,7 @@
 [![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@cloud.capacitacao)
 [![Gmail](	https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](cloud.capacitacao@gmail.com)
 
-![Gabriel GitHub stats](https://github-readme-stats.vercel.app/api?username=startdevopss&show_icons=true&theme=radical)
+![Gabriel GitHub stats](https://github-readme-stats.vercel.app/api?username=startdevopss&show_icons=true&theme=dracula)
 
 ## Minhas certificações:
 
