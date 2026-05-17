@@ -1,6 +1,6 @@
 ## Olá! Eu sou o Gabriel da Conceição 🖐️
 
-Atualmente atuando como Analista de Suporte em migração para DevOps & Cloud ☁️🚀
+Support Enginner | SRE | Observability | Kubernetes Troubleshooter | Cloud Infra | AWS + Datadog ☁️🚀
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gabrieldevops/)
 [![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@cloud.capacitacao)
