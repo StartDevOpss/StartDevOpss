@@ -1,4 +1,4 @@
-## Olá! Eu sou o Gabriel da Conceição 🖐️
+## Hello! I am Gabriel da Conceição Rodrigues 🖐️
 
 Support Enginner | SRE | Observability | Kubernetes Troubleshooter | Cloud Infra | AWS + Datadog ☁️🚀
 
